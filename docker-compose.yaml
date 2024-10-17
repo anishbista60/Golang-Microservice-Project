@@ -1,0 +1,8 @@
+services:
+  account:
+  catalogue:
+  order:
+  graphql:
+  account_db:
+  catalogue_db:
+  order_db:
